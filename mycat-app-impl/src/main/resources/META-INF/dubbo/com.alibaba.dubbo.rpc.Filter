@@ -1,0 +1,1 @@
+exceptionFilter=com.mycat.app.Filter.ExceptionFilter
