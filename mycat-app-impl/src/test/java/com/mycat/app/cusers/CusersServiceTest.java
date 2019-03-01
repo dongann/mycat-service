@@ -42,8 +42,8 @@ public class CusersServiceTest extends TestBase {
         Cusers cusers = new Cusers();
         cusers.setAccountId(0);
         cusers.setToken("33356we346hj74w4vt446");
-        cusers.setCuserName("董长安");
-        cusers.setCuserMobile("18354285412");
+        cusers.setCuserName("dongann");
+        cusers.setCuserMobile("18300000000");
         print(cusersService.setCuserInfo(cusers));
     }
 }
